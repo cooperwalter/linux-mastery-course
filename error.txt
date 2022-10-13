@@ -1,0 +1,4 @@
+cat: illegal option -- k
+usage: cat [-belnstuv] [file ...]
+cat: illegal option -- k
+usage: cat [-belnstuv] [file ...]
